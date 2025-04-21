@@ -4,14 +4,14 @@
 
 ---
 
-## 🚀 **About Me**  
-
-Hey! I'm **Md Faizan** — a curious **Full-Stack Web Developer** with a love for clean design, smooth performance & real-world impact.  
-Whether it’s sleek frontends or powerful backends, I enjoy building solutions that make lives easier and products smarter.
-
-- 🧠 **Mindset**: Code. Collaborate. Create.  
-- 🌱 **Learning**: Next.js | PostgreSQL | Distributed Systems | Cloud Computing  
-- 🌍 **Mission**: Building tech that connects, empowers & scales
+const MdFaizan = {
+  role: "Full-Stack Web Developer",
+  mindset: "Builder | Explorer | Collaborator",
+  loves: ["clean code", "scalable systems", "open-source"],
+  currentlyLearning: ["Next.js", "PostgreSQL", "System Design", "Cloud-Native Solutions"],
+  mission: "To build tech that connects, empowers, and inspires.",
+  mantra: "Code. Create. Learn. Evolve."
+};
 
 ---
 
