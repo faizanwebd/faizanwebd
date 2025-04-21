@@ -34,8 +34,10 @@ If you're building something cool, solving real-world problems, or want to innov
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizanwebd&show_icons=true&theme=radical&include_all_commits=true&hide_title=true&count_private=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=faizanwebd&theme=radical&hide_border=false" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faizanwebd&show_icons=true&hide_title=true&count_private=true&theme=radical" width="50%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizanwebd&theme=radical" width="50%" />
 </p>
 
 ---
