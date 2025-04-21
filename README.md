@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @faizanwebd
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-faizanwebd/faizanwebd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hello, I’m Md Faizan (@faizanwebd)
+💻 Passionate Full-Stack Developer | Creative Problem Solver | Lifelong Learner
+🚀 Interests: Full-Stack Development, Cloud Computing, Scalable Web Applications
+🌱 Currently Learning: Next.js | PostgreSQL | Advanced System Design
+🤝 Open to Collaborate On: Open-source projects, Freelance work, Start-up ideas
+📬 Let’s Connect:
+LinkedIn | GitHub | ✉️ mdfaizan1328@gmail.com | 📱 +91 8873692407
