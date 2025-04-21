@@ -4,62 +4,47 @@
 
 ---
 
-### 🛠️ **Tech Toolbox**
+## 👋 About Me
 
-- **Frontend**: React, Next.js, TypeScript, Tailwind, HTML, CSS  
-- **Backend**: Node.js, Express, Django, GraphQL, REST APIs  
-- **Databases**: PostgreSQL, MongoDB, MySQL  
-- **Cloud & DevOps**: AWS, Docker, CI/CD, Nginx, Serverless  
-- **Tools**: Git, GitHub, VS Code, Postman, Figma, Notion
+Hi, I'm **Md Faizan** — a Full-Stack Developer who loves building sleek UIs, scalable backends, and meaningful tech.  
+Currently diving deep into **Next.js**, **PostgreSQL**, and **Cloud-native architectures**.  
+I'm passionate about clean code, open-source, and tech that empowers people.
 
 ---
 
-### 💬 **Let’s Connect**  
+## 💡 Let's Build the Future, Together
 
-Open to ideas, code collabs, and tech talks!  
-Ping me for open-source projects, freelance work, or creative brainstorming.
+I'm always looking for meaningful collaborations — be it **open-source contributions**, **freelance projects**, or just a good ol' tech chat over coffee ☕.  
+If you're building something cool, solving real-world problems, or want to innovate with code — let's connect and create something impactful!
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/faizanwebd/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/faizanwebd" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:mdfaizan1328@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🏆 **GitHub Stats**
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizanwebd&show_icons=true&hide_title=true&count_private=true&theme=radical" width="50%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizanwebd&theme=radical" width="50%" />
-</p>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=faizanwebd&theme=github&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faizanwebd&show_icons=true&theme=radical&include_all_commits=true&hide_title=true&count_private=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=faizanwebd&theme=radical&hide_border=false" width="47%" />
 </p>
 
 ---
 
-### 🧑‍💻 **Open-Source & Projects**
+## 🛠️ Featured Open-Source & Side Projects
 
-Open-source is where I grow and give back.  
-I love collaborating on tools that help developers and communities thrive.
+I contribute to tools that empower developers and communities.  
+Check out some of my active repositories — bug fixes, docs, features, or reviews... all contributions are welcome!
 
-🔗 [Explore My Repositories](https://github.com/faizanwebd?tab=repositories)
-
----
-
-### 🎯 **Focus Areas**
-
-- 📚 **Learning**: Advanced System Design, Microservices  
-- 🛠️ **Building**: Cloud-native, scalable apps  
-- 🤝 **Open To**: Freelance, remote collabs & startup ideas
+🚀 [View All Repositories](https://github.com/faizanwebd?tab=repositories)
 
 
