@@ -9,4 +9,5 @@
 🤝 Open to Collaborate On: Open-source projects, Freelance work, Start-up ideas
 
 📬 Let’s Connect:
-LinkedIn | GitHub | ✉️ mdfaizan1328@gmail.com | 📱 +91 8873692407
+
+LinkedIn | Email | GitHub | 📱 +91 8873692407
