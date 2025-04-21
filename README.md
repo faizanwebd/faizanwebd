@@ -4,17 +4,6 @@
 
 ---
 
-const MdFaizan = {
-  role: "Full-Stack Web Developer",
-  mindset: "Builder | Explorer | Collaborator",
-  loves: ["clean code", "scalable systems", "open-source"],
-  currentlyLearning: ["Next.js", "PostgreSQL", "System Design", "Cloud-Native Solutions"],
-  mission: "To build tech that connects, empowers, and inspires.",
-  mantra: "Code. Create. Learn. Evolve."
-};
-
----
-
 ### 🛠️ **Tech Toolbox**
 
 - **Frontend**: React, Next.js, TypeScript, Tailwind, HTML, CSS  
