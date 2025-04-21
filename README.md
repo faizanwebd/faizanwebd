@@ -1,36 +1,38 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Md+Faizan;Full-Stack+Web+Developer;Open-Source+Enthusiast+%26+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B+I'm+Md+Faizan;Full-Stack+Developer+%26+Tech+Explorer;Crafting+Digital+Experiences" alt="Typing SVG" />
 </p>
 
 ---
 
-# 🌟 Md Faizan | Full-Stack Web Developer
+## 🚀 **About Me**  
 
-👋 **Welcome to my GitHub!**  
-I am a **Full-Stack Web Developer** with a passion for building innovative and scalable applications. I focus on creating high-quality, efficient, and user-friendly software, and I am constantly learning and exploring new technologies.
+Hey there! I’m **Md Faizan**, a passionate **Full-Stack Web Developer** and an enthusiastic **Open-Source Contributor**.  
+I specialize in turning creative ideas into high-performance digital solutions. I love exploring cutting-edge technologies and building scalable, dynamic applications that change the world.
+
+- 🎨 **Creator Mindset**: Building intuitive, user-centered digital products  
+- 🌱 **Current Learning**: Next.js | PostgreSQL | Advanced System Design | Cloud-native Solutions  
+- 🌍 **Vision**: To create tech that connects people, innovates industries, and empowers communities
 
 ---
 
-### 🧠 **Tech Stack & Expertise**
+### 🌐 **Tech Toolbox**  
 
-- **Frontend:** React, Angular, Next.js, HTML5, CSS3, JavaScript (ES6+), TypeScript, Tailwind CSS
-- **Backend:** Node.js, Express.js, Python (Flask), Django, RESTful APIs, GraphQL
-- **Database:** PostgreSQL, MongoDB, MySQL, Firebase
-- **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD, Nginx
+🔧 **Languages & Frameworks**  
+- **Frontend:** React.js, Next.js, Angular, HTML, CSS, JavaScript (ES6+), TypeScript, Tailwind CSS  
+- **Backend:** Node.js, Express.js, Python (Flask, Django), RESTful APIs, GraphQL  
+- **Databases:** PostgreSQL, MongoDB, MySQL  
+- **DevOps & Cloud:** AWS, Docker, Kubernetes, CI/CD, Serverless Architecture, Nginx  
 - **Version Control:** Git, GitHub, GitLab
-- **Tools:** VS Code, Postman, Figma, Jira, Slack, Trello
+
+🎯 **Tools & Workflow**  
+- **Productivity:** VS Code, Figma, Notion, Jira, Slack  
+- **Testing & Debugging:** Postman, Jest, Mocha
 
 ---
 
-### 🚀 **Current Focus**
+### 💬 **Let’s Connect**  
 
-- 🔍 **Learning:** Advanced System Design, GraphQL, Kubernetes, Redis  
-- 💡 **Building:** Scalable web applications with serverless architecture  
-- 🤝 **Collaborating:** Open-source projects, freelance opportunities, and startup ventures  
-
----
-
-### 💬 **Get in Touch**
+I believe collaboration drives innovation. Whether you're working on an open-source project, a startup idea, or simply want to discuss tech, I’d love to chat!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/faizanwebd/" target="_blank">
@@ -46,49 +48,35 @@ I am a **Full-Stack Web Developer** with a passion for building innovative and s
 
 ---
 
-### 📞 **Contact Details:**
-
-- 📱 **Phone:** +91 8873692407  
-- 📧 **Email:** [mdfaizan1328@gmail.com](mailto:mdfaizan1328@gmail.com)  
-- 🌍 **Location:** India
-
----
-
-### 📈 **GitHub Stats**
+### 🏆 **GitHub Stats & Achievements**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizanwebd&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=faizanwebd&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="GitHub Stats" width="50%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizanwebd&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizanwebd&theme=radical" alt="GitHub Streaks" width="50%" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=faizanwebd&theme=github&hide_border=true" alt="GitHub Activity" width="50%" />
 </p>
 
 ---
 
-### 🎯 **GitHub Contributions**
+### 📝 **Open-Source Projects**
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=faizanwebd&theme=github&hide_border=true" alt="GitHub Contributions"/>
-</p>
+I'm deeply committed to open-source and contributing to projects that can help the community grow. If you’re looking for collaboration, whether it’s an idea you want to bring to life or code that needs refining, let's build something amazing together!
 
----
-
-### 📑 **Open-Source Projects**
-
-I am passionate about open-source, and I love contributing to projects that make an impact. Feel free to check out my repositories and open issues or pull requests!
-
-- 🔗 [My Open-Source Contributions](https://github.com/faizanwebd?tab=repositories)
+🔗 [Explore My Repositories](https://github.com/faizanwebd?tab=repositories)
 
 ---
 
-### 🔨 **Let's Build Something Great Together**
+### 💡 **Current Focus**
 
-I am always open to new collaborations and opportunities to work on exciting projects. Whether you are building the next big app or need a developer to bring your vision to life, feel free to reach out!
+- 💻 **Learning**: Advanced System Design, Distributed Systems, Cloud Computing  
+- 🌟 **Building**: Scalable web apps with serverless architecture & microservices  
+- 🎯 **Seeking Collaborations**: Open-source contributions, freelance opportunities, startup ventures
 
----
-
-📌 *Code. Learn. Build. Repeat.*  
-✨ *Let's make something amazing together!*
 
 
